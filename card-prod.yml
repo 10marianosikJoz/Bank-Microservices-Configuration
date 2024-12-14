@@ -5,6 +5,6 @@ account:
   message: "Card microservice - production version."
   contactDetails:
     name: "Marcin Jóźwiak"
-    email: "marcinjozwiak@gmail.com"
+    email: "{cipher}eb72bef711a95ae64f7bb058f7394c63b6bf30174a3ab680f05e59cf6e48a5bbca16f8c285953bc07edd729edd5d4afd"
   onCallSupport:
     - (48) 111-222
