@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+account:
+  message: "Card microservice - QA version."
+  contactDetails:
+    name: "Marcin Jóźwiak"
+    email: "marcinjozwiak@gmail.com"
+  onCallSupport:
+    - (48) 111-222
